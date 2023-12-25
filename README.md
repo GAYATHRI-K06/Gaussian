@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-25 103340.png>)
+![Screenshot 2023-12-25 103340](https://github.com/GAYATHRI-K06/Gaussian/assets/145742742/2df706fb-c2a5-4ed0-b08a-93edc7cf6266)
 
 
 ## Result:
